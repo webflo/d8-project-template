@@ -1,0 +1,8 @@
+/config/active/*
+!/config/active/README.md
+
+/config/export/*
+!/config/export/README.md
+
+/config/staging/*
+!/config/staging/README.md
